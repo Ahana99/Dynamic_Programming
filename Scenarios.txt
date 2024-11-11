@@ -1,7 +1,3 @@
-Here’s the complete list of complex scenario-based questions for the programming problems:
-
----
-
 ### 1. **0-1 Knapsack**
 
 1. **Resource Management for Disaster Relief:** A relief organization must send supplies to an area after a natural disaster. Given limited cargo space, they must choose the right combination of high-priority supplies (food, medical aid, clothing) to maximize relief impact. Each supply item has a weight and an urgency score.
@@ -158,4 +154,30 @@ Here’s the complete list of complex scenario-based questions for the programmi
 
 ---
 
-These complex scenario questions should help in deepening your understanding and application of the respective algorithms. Let me know if you'd like more!
+### 12. **Matrix Chain Multiplication**
+
+1. **Optimizing Manufacturing Process:** A manufacturing plant produces multiple parts in a sequence where each part undergoes a series of operations. The time taken to process each part varies, and the plant seeks to minimize the total time for all parts. How should the operations be sequenced to minimize processing time?
+2. **Matrix Multiplication for Data Transformation:** A data analytics company needs to transform a large dataset represented as matrices. They want to perform a series of transformations with different computational costs. What is the most efficient order to apply the transformations to minimize total computational time?
+3. **Supply Chain Logistics:** A company’s distribution network involves different transportation legs, each with varying delivery costs. The goal is to determine the optimal path to minimize the cost of transporting goods from one warehouse to another. How should the legs be arranged for minimal cost?
+4. **Computation in Scientific Simulations:** In a scientific project, several simulations require matrix operations for each stage. The matrices vary in size, and optimizing the sequence of operations can reduce computation time. How should the operations be ordered to reduce total processing time?
+5. **Optimizing Multi-step Chemical Reactions:** In a chemistry laboratory, several chemical reactions need to be performed sequentially, and each reaction involves the combination of different chemicals. The lab wants to optimize the sequence of reactions to minimize the total reaction time. How can they efficiently determine the optimal reaction order?
+
+---
+
+### 13. **Decode a Number**
+
+1. **Cryptographic Message Decoding:** A secret message is encoded as a number where each digit or pair of digits represents a letter. The receiver must decode the message by determining the number of ways the message can be decoded. What are the possible interpretations of the encoded number?
+2. **Product Serial Number Interpretation:** A company uses a specific number encoding scheme for product serial numbers where each number could represent multiple products depending on how the digits are split. How many different products could the serial number refer to?
+3. **Task Scheduling in Project Management:** A project management system uses a number encoding system where tasks are represented by encoded numbers. The system allows multiple decoding ways to understand the task schedules. Calculate the number of valid task scheduling interpretations.
+4. **Decrypting a Transaction Record:** A financial institution uses a coded transaction system where each number or pair of numbers maps to a specific transaction type. Determine the number of possible transactions represented by the encoded number.
+5. **Password Recovery System:** A password recovery system encodes a user’s password as a number where single digits or pairs of digits could represent different characters. Calculate the number of possible valid passwords based on the encoded number.
+
+---
+
+### 14. **Count Subsequences**
+
+1. **User Behavior Analysis in E-commerce:** An e-commerce platform tracks user behavior on the site, where each action is represented by a sequence. The platform wants to analyze how often specific sequences of actions appear. How can they count the subsequences of user actions to identify popular patterns?
+2. **DNA Sequence Analysis:** In bioinformatics, DNA sequences are analyzed to find specific gene patterns. A subsequence of genes is a sequence of genes within a larger sequence. How many different subsequences of genes are present in the given sequence?
+3. **Customer Purchase Patterns:** An online retailer tracks customer purchases and wants to analyze recurring purchase patterns. They are looking for subsequences in purchase data to determine which items are bought together in different orders. How many subsequences match the pattern of interest?
+4. **Financial Transaction History Analysis:** A bank analyzes transaction histories to detect specific spending patterns. Each transaction is recorded as a sequence, and the bank needs to identify how many subsequences match the predefined spending pattern.
+5. **Gaming Strategy Optimization:** A game tracks the player's actions as a sequence of moves. The game developers want to know how many times a specific combination of moves occurs in a larger sequence of moves to identify optimal strategies. How can they count the subsequences in the sequence of moves?
