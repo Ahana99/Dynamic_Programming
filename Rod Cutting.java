@@ -32,6 +32,5 @@ public class MyClass {
       dp[n] = maxAmt;
       
       return dp[n];
-
   }
 }
