@@ -181,3 +181,16 @@
 3. **Customer Purchase Patterns:** An online retailer tracks customer purchases and wants to analyze recurring purchase patterns. They are looking for subsequences in purchase data to determine which items are bought together in different orders. How many subsequences match the pattern of interest?
 4. **Financial Transaction History Analysis:** A bank analyzes transaction histories to detect specific spending patterns. Each transaction is recorded as a sequence, and the bank needs to identify how many subsequences match the predefined spending pattern.
 5. **Gaming Strategy Optimization:** A game tracks the player's actions as a sequence of moves. The game developers want to know how many times a specific combination of moves occurs in a larger sequence of moves to identify optimal strategies. How can they count the subsequences in the sequence of moves?
+
+---
+
+### 14. **Rod Cutting**
+
+---
+
+### 14. **Super Egg Drop**
+
+---
+
+### 14. **Count Subsequences**
+
