@@ -8,7 +8,7 @@
 
 public class MyClass {
   static int countWays(int step, int n, int[] arr, int[] dp) {
-		if(step==n){ \\if you have reached the last step
+	if(step==n){ \\if you have reached the last step
           return 1;
         }else if(dp[step]!=0){
           return dp[step]; \\memoization
