@@ -186,11 +186,70 @@
 
 ### 14. **Rod Cutting**
 
+1. **Maximizing Revenue in Manufacturing:** A company produces metal rods of varying lengths and sells them at prices proportional to the length. Given a rod of a specific length and a price list, determine how to cut the rod into smaller pieces to maximize revenue.
+2. **Construction Resource Allocation:** A construction project has steel rods that can be cut into segments of different lengths for various tasks, each with a corresponding profit. Calculate the optimal way to cut the rods to maximize the total profit.
+3. **Energy-efficient Cutting in Factories:** A factory cuts metal rods into smaller pieces for custom orders. Each cut requires energy, and the energy cost depends on the length of the cut. How can the factory minimize cutting costs while maximizing revenue from the rod sales?
+4. **Cable Cutting for Internet Installation:** An internet service provider installs cables of specific lengths based on customer requirements. To minimize wastage and maximize profit, how should a cable of a given length be cut, using a predefined price list for various lengths?
+5. **Woodworking Profit Optimization:** A carpenter has a long piece of wood that can be cut into smaller pieces to create furniture. Each piece has a market price based on its length. Determine how the wood should be cut to maximize the carpenter's earnings.
+
 ---
 
-### 14. **Super Egg Drop**
+### 15. **Super Egg Drop**
+
+1. **Stress Testing for Building Materials:** A company tests building materials for durability by dropping weights from different heights. Given a fixed number of weights and a building of several floors, determine the minimum number of drops needed to find the maximum safe height without breaking a weight.
+2. **New Product Testing:** A company is testing a fragile electronic device to determine the highest height it can withstand before breaking. Using a limited number of test units, calculate the minimum tests required to find the critical height.
+3. **Emergency Exit Testing in Skyscrapers:** A safety team wants to determine the highest floor from which a person can safely jump during an emergency without causing injury. With limited trials, calculate the minimum number of jumps needed to determine the critical floor.
+4. **Drone Drop Test:** A drone manufacturer is testing its models to determine the maximum altitude from which a package can be dropped without damage. With a limited number of tests and drones, find the critical altitude using the fewest trials.
+5. **Rocket Fuel Efficiency Testing:** A space agency tests rocket fuel efficiency by determining the minimum height a rocket needs to be dropped to achieve ignition. Using a limited number of tests and rockets, find the critical height in the most efficient way.
 
 ---
 
-### 14. **Count Subsequences**
+### 16. **Longest Palindromic Subsequence**
 
+1. **DNA Sequence Analysis:** Given a DNA sequence, identify the longest palindromic subsequence to understand its stability and symmetry in molecular biology.
+2. **Text Compression:** In text compression algorithms, finding the longest palindromic subsequence can help identify repetitive patterns to optimize storage.
+3. **Cybersecurity in String Patterns:** A cybersecurity system analyzes string patterns to detect the longest palindromic subsequences as potential markers of malicious code.
+4. **Music Symmetry Analysis:** In music theory, find the longest palindromic subsequence in a melody to analyze its symmetry and structure.
+5. **Historical Manuscript Study:** A researcher studying ancient manuscripts wants to find the longest palindromic subsequence to identify potential hidden patterns or codes.
+
+---
+
+### 17. **Longest Valid Parentheses**
+
+1. **Compiler Syntax Check:** While parsing a program, determine the longest valid segment of nested parentheses to validate function calls.
+2. **Mathematical Expression Parsing:** Given a mathematical formula, find the longest valid parenthetical expression to ensure correct operations order.
+3. **Chatbot Query Analysis:** A chatbot analyzing user queries needs to validate the longest well-formed parentheses sequence to ensure syntax correctness.
+4. **Code Refactoring:** In a codebase, identify the longest valid parentheses sequence to correct improperly formatted code segments.
+5. **Expression Balancing in Calculators:** A scientific calculator analyzes the longest valid parentheses to compute the nested expressions correctly.
+
+---
+
+### 18. **Edit Distance**
+
+1. **Spell Checker Development:** A spell-checking program calculates the minimum edit distance between a word entered by a user and valid dictionary words to suggest corrections.
+2. **Version Control in Documents:** Track the minimum number of edits required to transform one version of a document into another for version history analysis.
+3. **Language Translation Tools:** Translate phrases by determining the edit distance between the original text and its translated counterpart in the target language.
+4. **Plagiarism Detection:** Compare student assignments by computing the edit distance between similar paragraphs to detect potential plagiarism.
+5. **Genetic Mutation Study:** Determine the edit distance between DNA sequences to analyze genetic mutations or evolutionary relationships.
+
+---
+
+### 19. **Word Break**
+
+1. **Dictionary Word Matching:** Given a large word, determine if it can be broken into valid words from a dictionary to create new phrases or names.
+2. **Natural Language Processing (NLP):** Tokenize sentences by identifying valid words in a string without spaces, used in text analysis systems.
+3. **URL Parsing:** In web development, validate query strings to check if they can be broken into meaningful keywords using a predefined dictionary.
+4. **Keyword Identification in AI Models:** An AI model processes user input by breaking down strings into valid keywords for further processing.
+5. **Custom Hashtag Analysis:** Break a long hashtag into its constituent words to analyze its meaning for social media platforms.
+
+---
+
+### 20. **Longest Common Subsequence (LCS)**
+
+1. **File Comparison in Version Control:** Compare two versions of a file to find the longest common subsequence, identifying changes or differences.
+2. **DNA Sequence Alignment:** Align two DNA sequences to determine the longest common subsequence for evolutionary or similarity studies.
+3. **Plagiarism Detection in Essays:** Detect overlapping content between two essays by calculating the longest common subsequence.
+4. **Audio Signal Matching:** Compare two audio signals by identifying the longest common subsequence in their waveforms for similarity analysis.
+5. **Historical Text Matching:** In linguistics, find the LCS between ancient manuscripts and modern translations to identify preserved meanings.
+
+---
