@@ -20,7 +20,8 @@ public class MyClass {
             sum+=countWays(step+i, n, arr, dp);
         }
       dp[step]=sum;
-      return sum;
+	  
+      return dp[step];
     }
 
     public static void main(String[] args) {
