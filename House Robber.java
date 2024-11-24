@@ -12,8 +12,8 @@ class Solution {
         else if(nums.length == 1){
             return nums[0];
         }
-        int prev1 =0;
-        int prev2 =0;
+        int prev1 =0; // Keeps track of the maximum money you can rob from the previous house.
+        int prev2 =0; // Keeps track of the maximum money you can rob from the house before the previous one.
 
         for(int num: nums){
             int curr =Math.max(prev1, prev2+num);
