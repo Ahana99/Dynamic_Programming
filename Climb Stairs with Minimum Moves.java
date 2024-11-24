@@ -8,7 +8,7 @@
 
 public class MyClass {
   static Integer countWays(int step, int n, int[] arr, Integer[] dp) {
-		if(step>=n){
+	if(step>=n){
           return 0;
         }
         

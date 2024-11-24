@@ -7,7 +7,7 @@
 
 class GfG {
     static int countWays(int n,int[] arr) {
-		if(n==0){
+	if(n==0){
           return 1;
         }else if(n<0){
           return 0;
