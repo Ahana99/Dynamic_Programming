@@ -130,9 +130,7 @@
 
 2. **Shipping Route Optimization:** A delivery company navigates through a city grid where each block has a travel cost. Find the least expensive route to the destination.
 
-3. **Emergency Evacuation in Hazardous Terrain:** A person must traverse
-
- a dangerous terrain with varying levels of hazard cost. Calculate the minimum hazard cost to evacuate.
+3. **Emergency Evacuation in Hazardous Terrain:** A person must traverse a dangerous terrain with varying levels of hazard cost. Calculate the minimum hazard cost to evacuate.
 
 4. **Surveyor's Path in Unknown Terrain:** A surveyor traverses a region with variable terrain costs to reach a specific point. Calculate the lowest cost path.
 
